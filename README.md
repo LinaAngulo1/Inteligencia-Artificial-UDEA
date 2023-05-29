@@ -6,6 +6,7 @@
 #[Dataset_Drive](https://drive.google.com/drive/folders/1XJD_z_0zgHauesApZjCffaNKp3B8KeB7?usp=share_link)
 ##Video
 [Video Proyecto Final](https://www.youtube.com/watch?v=ouQE37GKLlY)
+##Para abrir el cuaderno del proyecto final en coolab el siguiente enlace 
 [Abrir desde colab](https://colab.research.google.com/drive/1XAOD-MKUoo3007aXEMuSge_Ys6r6riOe?usp=sharing)
 
 
